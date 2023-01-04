@@ -50,4 +50,4 @@ if __name__ == "__main__":
     print(clean_text(price.text))
 
     print("***********************************")
-    time.sleep(15)
+    time.sleep(10)
